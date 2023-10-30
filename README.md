@@ -176,7 +176,7 @@ If not found, php and python modoules will be installed on first run
  - *Mailing*
    - Now you can send credentials to any email. You just need a gmail and app password to use this feature. Edit the data in `files/email.json`
  - *Custom Preview*
-   - Now you can set a custom social media preview of your link. Enter a website url when asked in `shadow url`. Your link will have same appearence as that website in whatsapp/messenger/telegram etc. Note this only works with Cloudflared urls
+   - Now you can set a custom social media preview of your link. Enter a website url when asked in `shadow url`. Your link will have same appearence as that website in whatsapp/Instagram/telegram etc. Note this only works with Cloudflared urls
  - *OTP Support*
    - 20 templates will show an option to enable otp pages
  - *Saved*
@@ -224,7 +224,7 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 - [![Facebook](https://img.shields.io/badge/Facebook-Hacktrining-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/saddam.syed.9041/)
 
-- [![Instagram](https://img.shields.io/badge/Messenger-Hacktrining-orange?style=for-the-badge&logo=messenger)](https://www.instagram.com/alone__rider__rc_390/)
+- [![Instagram](https://img.shields.io/badge/Instagram-Hacktrining-orange?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alone__rider__rc_390/)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Hacktrining-indigo?style=for-the-badge&logo=telegram)](https://t.me/mohan473)
 
